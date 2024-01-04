@@ -5,5 +5,6 @@
   
 > Deploy: https://6596fdb0a9f3f6247567fcfd--quiet-malabi-46c4c2.netlify.app
 
-### Assistir ao vídeo
-![Video](https://www.youtube.com/watch?v=MQ6uVaptY0s&list=PLMCaQMtb4G-u4dp-IAN4tTuPRmVQZe6yf&index=18)
+### Test
+https://github.com/Ferre1ra1/password-generator/assets/100845421/52b5a4e8-1fed-4d8a-93b9-c23af6e803ac
+
